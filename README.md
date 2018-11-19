@@ -6,7 +6,8 @@ You will get _myprogram.o_, _mem.o_ and _libmem.so_ after typing '_make_' to bui
 Ensure the work directionary contains the following files:
 
 * makefile
-* mymain.c
+* mymain.c (_your test file_)
 * mem.c
 * mem.h
 
+You can run myprogram from this same directory.

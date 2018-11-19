@@ -1,2 +1,9 @@
 # malloc-and-free
-In this project, I implemented a memory allocator for the heap of a user-level process. 
+In this project, We implemente a memory allocator for the heap of a user-level process.
+You will get a myprogram.o, a mem.o after typing '_make_' to build our program. 
+Ensure the work directionary contains the following files:
+* makefile
+* mymain.c
+* mem.c
+* mem.h
+
